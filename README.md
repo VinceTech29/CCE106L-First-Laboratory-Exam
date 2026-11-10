@@ -79,13 +79,11 @@ This Flutter application is built strictly using **`StatelessWidget`s** to repli
 
 ---
 
-## Submission Artifacts
+## Project Structure
 
-- `pablo_main.dart` — Submitted entry-point code copy
-- `pablo_shopping_cart_page.dart` — Submitted cart page & CartItemCard code copy
-- `pablo_output_1.png` — High-resolution interface output screenshot
-- `pablo_output_console.png` — Console output screenshot showing verified callbacks
-- `pablo_stateless_lab_exam.pdf` — Comprehensive documented PDF submission
+- `lib/main.dart` — Application entry point configuring MaterialApp & theme
+- `lib/shopping_cart_page.dart` — ShoppingCartPage & reusable CartItemCard widgets
+- `test/widget_test.dart` — Automated unit and widget interaction tests
 
 ---
 
